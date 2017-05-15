@@ -29,5 +29,7 @@ if (aNumber == "0"){
     console.log("10 is 10")
 }
 
-function showMsg(msg)
+function showMsg(msg){
+    console.log("added by revathi")
+}
 
